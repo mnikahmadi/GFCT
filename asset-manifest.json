@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/GFCT/static/css/main.e7e01244.css",
+    "main.js": "/GFCT/static/js/main.f5171ede.js",
+    "static/media/parallax-bg.gif": "/GFCT/static/media/parallax-bg.a753668321d10848110d.gif",
+    "index.html": "/GFCT/index.html",
+    "main.e7e01244.css.map": "/GFCT/static/css/main.e7e01244.css.map",
+    "main.f5171ede.js.map": "/GFCT/static/js/main.f5171ede.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7e01244.css",
+    "static/js/main.f5171ede.js"
+  ]
+}
